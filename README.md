@@ -1,6 +1,6 @@
 # esbuild-demo
 
-Bundling React with [esbuld](https://esbuild.github.io/)
+Bundling React with [esbuild](https://esbuild.github.io/)
 
 ## Bundle
 
